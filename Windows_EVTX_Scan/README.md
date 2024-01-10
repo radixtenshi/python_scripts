@@ -12,3 +12,7 @@ python.exe -m pip install python-evtx (en una consola CMD)
 ```
 pip install -r requirements.txt
 ```
+
+# Links Utiles
+
+[Event Log Explorer](https://eventlogxp.com/)
