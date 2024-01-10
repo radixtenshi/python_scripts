@@ -16,3 +16,5 @@ pip install -r requirements.txt
 # Links Utiles
 
 [Event Log Explorer](https://eventlogxp.com/)
+
+[evtx-hunter](https://github.com/NVISOsecurity/evtx-hunter)
