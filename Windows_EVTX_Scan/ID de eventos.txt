@@ -1,0 +1,28 @@
+Borrado de archivo: El ID de evento es 466012. Este evento se genera cuando se borra un objeto, que podría ser un archivo1.
+
+Borrado de carpeta: El ID de evento también es 466032. Este evento se genera cuando se borra un objeto, que podría ser una carpeta.
+
+Movido de archivo: No hay un ID de evento específico para el movimiento de archivos. Sin embargo, el movimiento de un archivo puede 
+implicar una serie de eventos, como la apertura del archivo (ID de evento 4656), la escritura en el archivo y el cierre del archivo 
+(ID de evento 4658).
+
+Movido de carpeta: Al igual que con los archivos, no hay un ID de evento específico para el movimiento de carpetas. El movimiento 
+de una carpeta puede implicar una serie de eventos, como la apertura de la carpeta (ID de evento 4656), la escritura en la carpeta 
+y el cierre de la carpeta (ID de evento 4658).
+
+Renombrado de archivo: No hay un ID de evento específico para el renombrado de archivos. Sin embargo, el renombrado de un archivo 
+puede implicar una serie de eventos, como la apertura del archivo (ID de evento 4656), la escritura en el archivo y el cierre del 
+archivo (ID de evento 4658).
+
+Renombrado de carpeta: Al igual que con los archivos, no hay un ID de evento específico para el renombrado de carpetas. El renombrado 
+de una carpeta puede implicar una serie de eventos, como la apertura de la carpeta (ID de evento 4656), la escritura en la carpeta y 
+el cierre de la carpeta (ID de evento 4658).
+
+Log On local de usuario: El ID de evento es 4624. Este evento se genera cuando un usuario inicia sesión en una computadora.
+
+Log Off local de usuario: El ID de evento es 4647. Este evento se genera cuando un usuario inicia el proceso de cierre de sesión.
+
+Log On de red de usuario: El ID de evento también es 4624. Este evento se genera cuando un usuario o una computadora inicia sesión 
+en una computadora desde la red.
+
+Log Off de red de usuario: El ID de evento es 4634. Este evento se genera cuando se completa el proceso de cierre de sesión.
