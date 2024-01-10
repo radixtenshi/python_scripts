@@ -18,3 +18,10 @@ pip install -r requirements.txt
 [Event Log Explorer](https://eventlogxp.com/)
 
 [evtx-hunter](https://github.com/NVISOsecurity/evtx-hunter)
+
+[EvtxHussar](https://github.com/yarox24/EvtxHussar)
+
+[Evtx Log (xml) Browser](https://github.com/kacos2000/Evtx_Log_Browser)
+
+[Winevt logs analysis (Remote connections)](https://github.com/georgi-i/winevt_logs_analysis)
+
